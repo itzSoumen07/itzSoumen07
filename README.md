@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **E-Banking System**
 
-- 📫 How to reach me **soumendoluicr7@gmail.com**
+- 📫 How to reach me :  **soumendoluicr7@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me : Given Mail ID </h3>
 <p align="left">
 </p>
 
